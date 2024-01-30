@@ -7,7 +7,7 @@ The purpose of this application is to maintain the total balance of a "loan" for
 <h2>About the Project</h2>
 
 <p align="center">
-  <img src="https://github.com/Anthony-Gonzales/LoanTracker/blob/main/images/main_page.png?raw=true" alt="Application Main Page" style="width: 50%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/LoanTracker/blob/main/images/main_page.png?raw=true" alt="Application Main Page" style="max-width: 100%; height: auto;">
 </p>
 
 <p>
@@ -56,7 +56,7 @@ The purpose of this application is to maintain the total balance of a "loan" for
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anthony-Gonzales/LoanTracker/blob/main/images/make_payment.png?raw=true" alt="Make a Payment" style="width: 50%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/LoanTracker/blob/main/images/make_payment.png?raw=true" alt="Make a Payment" style="max-width: 100%; height: auto;">
 </p>
 
 <p>
@@ -64,7 +64,7 @@ The purpose of this application is to maintain the total balance of a "loan" for
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anthony-Gonzales/LoanTracker/blob/main/images/payment_complete.png?raw=true" alt="Payment Complete" style="width: 50%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/LoanTracker/blob/main/images/payment_complete.png?raw=true" alt="Payment Complete" style="max-width: 100%; height: auto;">
 </p>
 
 <h3>Save After Close</h3>
@@ -74,7 +74,7 @@ The purpose of this application is to maintain the total balance of a "loan" for
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anthony-Gonzales/LoanTracker/blob/main/images/excel.png?raw=true" alt="Excel Snippet" style="width: 50%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/LoanTracker/blob/main/images/excel.png?raw=true" alt="Excel Snippet" style="max-width: 100%; height: auto;">
 </p>
 
 <p>
@@ -82,7 +82,7 @@ The purpose of this application is to maintain the total balance of a "loan" for
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anthony-Gonzales/LoanTracker/blob/main/images/final_page.png?raw=true" alt="Final Page" style="width: 50%; height: auto;">
+  <img src="https://github.com/Anthony-Gonzales/LoanTracker/blob/main/images/final_page.png?raw=true" alt="Final Page" style="max-width: 100%; height: auto;">
 </p>
 
 <h2>Roadmap</h2>
